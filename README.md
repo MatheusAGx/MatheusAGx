@@ -1,7 +1,7 @@
-## Olá! Eu sou o Matheus AG!!!
+## Olá! Eu sou o Matheus!!!
 
-- 🌱 Trabalho como Desenvolvedor Web!
-- 💻 HTML, CSS, Javascript, MySQL e PHP!
+- 🌱 Trabalho como Desenvolvedor Jr!
+- 💻 HTML, CSS, Javascript, MySQL, PHP, C# e Java!
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Sempre aberto a fazer música!
 
